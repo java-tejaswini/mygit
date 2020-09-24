@@ -7,6 +7,7 @@ public class MyTest {
 	@Test
 	public void test() {
 		assertEquals(12, 12);
+		assertEquals(12, 12);
 	}
 
 }
